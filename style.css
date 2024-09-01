@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    border: 2px solid red;
+}
+.answer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 12px;
+    gap: 12px;
+}
+#next-question {
+    margin-top: 10px;
+}
